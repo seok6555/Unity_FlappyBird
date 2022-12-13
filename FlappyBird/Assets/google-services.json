@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "957854105290",
+    "firebase_url": "https://flappy-bird-88983294-default-rtdb.firebaseio.com",
+    "project_id": "flappy-bird-88983294",
+    "storage_bucket": "flappy-bird-88983294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957854105290:android:e21c2aca744c91eb243e33",
+        "android_client_info": {
+          "package_name": "com.rootstonegames.flappybird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957854105290-262au06gt1hv85q28b72e0k8phk1iuvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rootstonegames.flappybird",
+            "certificate_hash": "13e4fc6e93506a989a2aca16d6dbc20c99cf2fc7"
+          }
+        },
+        {
+          "client_id": "957854105290-sitp74baavkod9fcde4q1d3m2btbu0jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rootstonegames.flappybird",
+            "certificate_hash": "565ed6d97abb3ee0b799f89bafece91934a5a378"
+          }
+        },
+        {
+          "client_id": "957854105290-jeni7uk59iapjd6552uqcie5od27ai7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT1-J4eOnvkaBvAwh56upDlZoixFq3UlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957854105290-jeni7uk59iapjd6552uqcie5od27ai7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
