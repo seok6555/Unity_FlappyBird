@@ -1,4 +1,4 @@
-# Unity_FlappyBird
+# Unity_FlappyBird [앵무탈출]
 * **개발 인원**: 1명
 
 * **개발 환경**: Visual Studio, C#, Unity 2020.3.29f1, GPGS 10.14, GoogleMobileAds 7.2.0, Firebase 9.2.0
