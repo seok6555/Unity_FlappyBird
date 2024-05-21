@@ -18,4 +18,6 @@
    <br>유니티 내장함수인 OnTriggerEnter를 이용하여 장애물에 부딪혔을 때 게임오버와 장애물 사이를 통과했을 때 점수를 획득하는 기능을 구현함.
 
 # 포트폴리오 기술서
-https://drive.google.com/file/d/1opbyA_tCJLZ_If6Nd635PN4jGMOyyvgY/view?usp=sharing
+* **구글 드라이브**: https://drive.google.com/file/d/1opbyA_tCJLZ_If6Nd635PN4jGMOyyvgY/view?usp=sharing
+
+* **네이버 MYBOX**: 추가 예정
